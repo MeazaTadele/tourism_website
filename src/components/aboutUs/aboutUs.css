@@ -1,0 +1,40 @@
+.about-container {
+  display: flex;
+  gap: 100px;
+  align-items: center;
+  justify-content: center;
+  background-color: #f5f4f4;
+  padding: 40px;
+  height: 80vh;
+}
+
+.about-text {
+  max-width: 60%;
+}
+
+.about-subtitle {
+  color: #e63946;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 2rem;
+  margin: 10px 0;
+  color: #f7671a;
+}
+
+.about-description {
+  font-size: 1.3rem;
+  margin: 30px 0;
+  color: black;
+  width: 400px;
+}
+
+.about-image {
+  max-width: 50%;
+}
+
+.image {
+  width: 100%;
+}
